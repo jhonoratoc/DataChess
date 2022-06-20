@@ -9,8 +9,7 @@
 </h2>
 
 <p align="center">
-<p align="center"><img src="./assets/chess-surrealista.jpg" width="90%" height="90%"/></p>
-<p font-size: 9pt >Hobby - Chess - Your move is a piece of digital artwork by Mike Savad which was uploaded on October 12th, 2013.</p>
+<p align="center"><img src="./assets/chess-surrealista.jpg" width="90%" height="90%"/>Hobby - Chess - Your move is a piece of digital artwork by Mike Savad which was uploaded on October 12th, 2013.</p>
 <br>
 
 <p align="justify"> Descendente dos Persas e Indianos, o xadrez surgiu em sua forma atual durante o renascimento, tornando-se mundialmente conhecido como um jogo de tabuleiro onde dois oponentes se enfrentam em uma batalha estratégica, para capturar o rei adversário.
